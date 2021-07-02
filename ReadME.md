@@ -36,5 +36,7 @@ Browser (as runtime environment)
 To run this app, click live github website link given below. OR
 clone the repo locally.
 
-Repo Link to clone : https://github.com/Aqeela66/BMI_Calculator
-Live Page link:  
+##### Repo Link to clone : 
+https://github.com/Aqeela66/BMI_Calculator
+##### Live Page link:  
+ https://aqeela66.github.io/BMI_Calculator/
