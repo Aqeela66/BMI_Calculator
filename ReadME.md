@@ -1,6 +1,6 @@
 ### Health Checker - BMI Calculator
 
-This repo is for BMI Calculating App. We, as a team of three, has worked on creating basic BMI calculator using HTML, CSS and JavaScript
+This repo is for BMI Calculating App. We, as a team of 5, has worked on creating basic BMI calculator using HTML, CSS and JavaScript
 
 ### Group Members 
 
