@@ -2,41 +2,60 @@
 
 This repo is for BMI Calculating App. We, as a team of three, has worked on creating basic BMI calculator using HTML, CSS and JavaScript
 
-### Group Members ###
-Shairyar Ali
-Faisal Kalwar
-Hafiza Sumbul Rafiq Kath
-Aqeela
-Rabia Shafeeq
+### Group Members 
 
-### Group Lead ###
-Hafiza Sumbul Rafiq Kath
+-Shairyar Ali
 
-### What does this app do? ###
-This app generates BMI  based on weight and height.
-It takes the unit in which you want to calculate BMI, then takes weight and height, and generates the result along with remarks whether its normal , over weighed or obese.
+-Faisal Kalwar
 
-### UI work ###
-Shairyar 
-Sumbul
-Aqeela
-### JavaScript work ##
-Faisal 
-Sumbul
+-Hafiza Sumbul Rafiq Kath
 
-### Documentation ###
-Sumbul
+-Aqeela
 
-### Tools ###
-HTML, CSS, JavaScript (for coding and implementation on UI)
-VS Code (as Editor)
-Browser (as runtime environment)
+-Rabia Shafeeq
 
-### How to run code in this repo? ###
+### Group Lead 
+
+-Hafiza Sumbul Rafiq Kath
+
+### What does this app do? 
+
+-This app generates BMI  based on weight and height.
+-It takes the unit in which you want to calculate BMI, then takes weight and height, and generates the result along with remarks whether its normal , over weighed or obese.
+
+### UI work
+
+-Shairyar 
+
+-Sumbul
+
+-Aqeela
+
+### JavaScript work 
+
+-Faisal 
+
+-Sumbul
+
+### Documentation 
+
+-Aqeela
+
+### Tools 
+
+-HTML, CSS, JavaScript (for coding and implementation on UI)
+
+-VS Code (as Editor)
+
+-Browser (as runtime environment)
+
+### How to run code in this repo?
+
 To run this app, click live github website link given below. OR
 clone the repo locally.
 
 ##### Repo Link to clone : 
 https://github.com/Aqeela66/BMI_Calculator
+
 ##### Live Page link:  
  https://aqeela66.github.io/BMI_Calculator/
